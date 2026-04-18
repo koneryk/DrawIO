@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="LgQQcvgXoIYjjTZc1e3R">
+    <mxGraphModel dx="2491" dy="2053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Dns" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Функции" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Элементы интерфейса" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поиск" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Офорсмление заказа" vertex="1">
+          <mxGeometry height="60" width="120" x="827" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Работа с каталогом" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обратная связь" vertex="1">
+          <mxGeometry height="60" width="120" x="840" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Работа с карточкой товара" vertex="1">
+          <mxGeometry height="60" width="120" x="780" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Навигация" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Управление корзиной" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Форма обратной связи" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Контакты" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Заказ звонка" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Вопрос о товаре" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Написать в поддержку" vertex="1">
+          <mxGeometry height="60" width="120" x="-40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Страница каталога" vertex="1">
+          <mxGeometry height="60" width="120" x="-120" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Карточки товара" vertex="1">
+          <mxGeometry height="60" width="120" x="-41" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Пагинация" vertex="1">
+          <mxGeometry height="60" width="120" x="-201" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сортировка" vertex="1">
+          <mxGeometry height="60" width="120" x="-121" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Фильтры" vertex="1">
+          <mxGeometry height="60" width="120" x="-121" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Корзина" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Промокод" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Список товаров" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Изменение количества" vertex="1">
+          <mxGeometry height="60" width="120" x="234" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Оформление заказа" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Итого" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Страница товара" vertex="1">
+          <mxGeometry height="60" width="120" x="-300" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Галерея" vertex="1">
+          <mxGeometry height="60" width="120" x="-240" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Описание, характеристики, отзывы" vertex="1">
+          <mxGeometry height="60" width="120" x="-300" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Кнопка купить" vertex="1">
+          <mxGeometry height="60" width="120" x="-300" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QUfcN_XnE92_b3P7kjWG-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Цена и наличие" vertex="1">
+          <mxGeometry height="60" width="120" x="-370" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
