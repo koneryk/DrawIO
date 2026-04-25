@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="_lAN57xcz4WMib14xSZc">
-    <mxGraphModel dx="2174" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2112" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,6 +41,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="WJFvCjrvnAvebbR3wH-9-10" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WJFvCjrvnAvebbR3wH-9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TAK44yCkNxnbV2jKQ6xj-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Функции" vertex="1">
           <mxGeometry height="60" width="120" x="720" y="660" as="geometry" />
         </mxCell>
@@ -58,6 +61,18 @@
         </mxCell>
         <mxCell id="TAK44yCkNxnbV2jKQ6xj-125" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-120">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WJFvCjrvnAvebbR3wH-9-3" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.037;exitY=0.013;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="667" />
+              <mxPoint x="208" y="667" />
+              <mxPoint x="208" y="370" />
+              <mxPoint x="-52" y="370" />
+            </Array>
+            <mxPoint x="250.00000000000023" y="667.5" as="sourcePoint" />
+            <mxPoint x="-52.49999999999977" y="352.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TAK44yCkNxnbV2jKQ6xj-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Элементы интерфейса" vertex="1">
           <mxGeometry height="60" width="130" x="260" y="670" as="geometry" />
@@ -246,6 +261,24 @@
         </mxCell>
         <mxCell id="TAK44yCkNxnbV2jKQ6xj-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр логов" vertex="1">
           <mxGeometry height="60" width="120" x="910" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="WJFvCjrvnAvebbR3wH-9-5" edge="1" parent="1" source="WJFvCjrvnAvebbR3wH-9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WJFvCjrvnAvebbR3wH-9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WJFvCjrvnAvebbR3wH-9-7" edge="1" parent="1" source="WJFvCjrvnAvebbR3wH-9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WJFvCjrvnAvebbR3wH-9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WJFvCjrvnAvebbR3wH-9-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Форма создания заявки" vertex="1">
+          <mxGeometry height="60" width="120" x="-130" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="WJFvCjrvnAvebbR3wH-9-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="окно выбора товара" vertex="1">
+          <mxGeometry height="60" width="120" x="-340" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="WJFvCjrvnAvebbR3wH-9-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Окно выбора способов оплаты" vertex="1">
+          <mxGeometry height="60" width="120" x="-340" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="WJFvCjrvnAvebbR3wH-9-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр статуса заказа" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
