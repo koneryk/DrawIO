@@ -1,0 +1,253 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="_lAN57xcz4WMib14xSZc">
+    <mxGraphModel dx="2174" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-59" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-60" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Информационная система «Сбыт готовой продукции по договорам» (для маркетолога)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="470" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-62" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TAK44yCkNxnbV2jKQ6xj-78" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-63" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-64" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-65" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-66" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-129" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-132" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-130">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="570" />
+              <mxPoint x="840" y="570" />
+              <mxPoint x="840" y="500" />
+              <mxPoint x="970" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Функции" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-68" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-69" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-70" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-71" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-125" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Элементы интерфейса" vertex="1">
+          <mxGeometry height="60" width="130" x="260" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Поиск" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Офорсмление заказа" vertex="1">
+          <mxGeometry height="60" width="120" x="967" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Работа с каталогом" vertex="1">
+          <mxGeometry height="60" width="120" x="980" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Обратная связь" vertex="1">
+          <mxGeometry height="60" width="120" x="980" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Работа с карточкой товара" vertex="1">
+          <mxGeometry height="60" width="120" x="920" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Навигация" vertex="1">
+          <mxGeometry height="60" width="120" x="610" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Управление корзиной" vertex="1">
+          <mxGeometry height="60" width="120" x="770" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-80" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-81" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-82" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Форма обратной связи" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Контакты" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Заказ звонка" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Вопрос о товаре" vertex="1">
+          <mxGeometry height="60" width="120" x="-40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Написать в поддержку" vertex="1">
+          <mxGeometry height="60" width="120" x="-90" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-87" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-88" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-89" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Страница каталога" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Карточки товара" vertex="1">
+          <mxGeometry height="60" width="120" x="130" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Пагинация" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-93" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сортировка" vertex="1">
+          <mxGeometry height="60" width="120" x="-230" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Фильтры" vertex="1">
+          <mxGeometry height="60" width="120" x="10" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-95" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Корзина" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Промокод" vertex="1">
+          <mxGeometry height="60" width="120" x="454" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Список товаров" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Изменение количества" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Оформление заказа" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-101" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-102" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-103" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-104" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Итого" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-106" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;" target="TAK44yCkNxnbV2jKQ6xj-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="580" />
+              <mxPoint x="-20" y="580" />
+              <mxPoint x="-20" y="555" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-107" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="580" />
+              <mxPoint x="-220" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-108" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-109" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Страница товара" vertex="1">
+          <mxGeometry height="60" width="120" x="-160" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Галерея" vertex="1">
+          <mxGeometry height="60" width="120" x="-80" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Описание, характеристики, отзывы" vertex="1">
+          <mxGeometry height="60" width="120" x="-240" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-113" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Кнопка купить" vertex="1">
+          <mxGeometry height="60" width="120" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Цена и наличие" vertex="1">
+          <mxGeometry height="60" width="120" x="-280" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-115" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.117;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="TAK44yCkNxnbV2jKQ6xj-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="765" />
+              <mxPoint x="900" y="765" />
+              <mxPoint x="900" y="811" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-116" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.15;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="TAK44yCkNxnbV2jKQ6xj-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-117" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.6;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="TAK44yCkNxnbV2jKQ6xj-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-118" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.142;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" target="TAK44yCkNxnbV2jKQ6xj-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-119" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.45;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="TAK44yCkNxnbV2jKQ6xj-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-122" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TAK44yCkNxnbV2jKQ6xj-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-127" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TAK44yCkNxnbV2jKQ6xj-124" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Справка" vertex="1">
+          <mxGeometry height="60" width="120" x="310" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Вкладка &quot;О приложении&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Отправка логов" vertex="1">
+          <mxGeometry height="60" width="120" x="430" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-124" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сообщение об ошибке" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-126" edge="1" parent="1" source="TAK44yCkNxnbV2jKQ6xj-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.451;entryY=0.963;entryDx=0;entryDy=0;entryPerimeter=0;" target="TAK44yCkNxnbV2jKQ6xj-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Отправка отчета" vertex="1">
+          <mxGeometry height="60" width="120" x="740" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="TAK44yCkNxnbV2jKQ6xj-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Просмотр логов" vertex="1">
+          <mxGeometry height="60" width="120" x="910" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
